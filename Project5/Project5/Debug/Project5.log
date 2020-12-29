@@ -1,0 +1,5 @@
+﻿  소스.cpp
+D:\programing\vstudio\practice\Project5\Project5\소스.cpp(60,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\programing\vstudio\practice\Project5\Project5\소스.cpp(65,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\programing\vstudio\practice\Project5\Project5\소스.cpp(77,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Project5.vcxproj -> D:\programing\vstudio\practice\Project5\Debug\Project5.exe
